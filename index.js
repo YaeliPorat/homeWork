@@ -1,3 +1,3 @@
 const func1 = () => {
-    console.log("Functi111");
+    console.log("Function111");
 }   
